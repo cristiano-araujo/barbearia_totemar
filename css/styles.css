@@ -242,7 +242,7 @@ i {
 
 .map-container {
   width: 100%;
-  max-width: 1000px; /* mesmo limite do texto */
+  max-width: 1200px; /* mesmo limite do texto */
   margin: 0 auto;   /* centraliza */
 }
 
